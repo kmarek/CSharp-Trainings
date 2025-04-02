@@ -1,0 +1,23 @@
+{
+  "id": 78,
+  "category": {
+    "id": 1,
+    "name": "Adventure"
+  },
+  "name": "Canoeing in Norway",
+  "photoUrls": [
+    "https://mypage/photos/photo122.jpg",
+    "https://mypage/photos/photo223.jpg"
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "adventure"
+    },
+    {
+      "id": 7,
+      "name": "norway"
+    }
+  ],
+  "status": "Draft"
+}

@@ -1,0 +1,32 @@
+{
+  "apiVersion": "1.0",
+  "users": [
+    {
+      "name": "John",
+      "age": 20,
+      "email": "john@test.pl",
+      "address": {
+        "city": "Gdansk",
+        "street": "Dluga"
+      }
+    },
+    {
+      "name": "Alice",
+      "age": 25,
+      "email": "alice@test.pl",
+      "address": {
+        "city": "Warsaw",
+        "street": "Marszałkowska"
+      }
+    },
+    {
+      "name": "Bob",
+      "age": 30,
+      "email": "bob@test.pl",
+      "address": {
+        "city": "Krakow",
+        "street": "Floriańska"
+      }
+    }
+  ]
+}

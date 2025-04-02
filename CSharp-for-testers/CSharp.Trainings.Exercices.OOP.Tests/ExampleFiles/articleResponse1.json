@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "category": {
+    "id": 0,
+    "name": "Travel"
+  },
+  "name": "Visiting New Zealand",
+  "photoUrls": [
+    "https://mypage/photos/photo1.jpg",
+    "https://mypage/photos/photo2.jpg"
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "travel"
+    },
+    {
+      "id": 7,
+      "name": "new zealand"
+    }
+  ],
+  "status": "Published"
+}
